@@ -10,4 +10,4 @@ The most common steps in the extraction process of viral RNA/DNA are:
 * **Elution of purified RNA/DNA:** Nuclease-free water is used to elute the purified viral RNA/DNA from the membrane.
 
 ### Quantification of Viral RNA/DNA
-The concentration and purity of the extracted viral nucleic acids can be assessed using spectrophotometric method. For good-quality nucleic acid, the A260/A280 ratio should be ~2.0 for RNA and ~1.8 for DNA, indicating minimal protein contamination. Accurate quantification ensures the reliability and reproducibility of downstream applications such as PCR, cloning, viral titration analysis, and sequencing [2].
+The concentration and purity of the extracted viral nucleic acids can be assessed using spectrophotometric method. For good-quality nucleic acid, the A260/A280 ratio should be ~2.0 for RNA and ~1.8 for DNA, indicating minimal protein contamination. Accurate quantification ensures the reliability and reproducibility of downstream applications such as PCR, cloning, viral titration analysis, and sequencing [2, 3].

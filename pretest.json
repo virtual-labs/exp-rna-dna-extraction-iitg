@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the aim of viral RNA/DNA extraction?",
+      "answers": {
+        "a": "To grow viruses",
+        "b": "To isolate viral genetic material",
+        "c": "To kill viruses",
+        "d": "To stain viruses"
+      },
+      "explanations": {
+        "a": "Growing viruses requires host cells and cell culture media, not extraction.",
+        "b": "To isolate viral genetic material.",
+        "c": "Extraction isolates nucleic acids and does not focus on disinfection/killing.",
+        "d": "Staining is done for visualization under microscopes, not extraction."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Viral RNA/DNA is enclosed within which structure?",
+      "answers": {
+        "a": "Ribosome",
+        "b": "Cell wall",
+        "c": "Protein capsid",
+        "d": "Nucleus"
+      },
+      "explanations": {
+        "a": "Ribosomes are cell organelles responsible for translation, not encapsulation.",
+        "b": "Viruses do not possess cell walls.",
+        "c": "Protein capsid.",
+        "d": "Viral genetic material is enclosed in a capsid rather than a cellular nucleus."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which sample can be used for viral nucleic acid extraction?",
+      "answers": {
+        "a": "Serum",
+        "b": "Plasma",
+        "c": "Cell culture supernatant",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "Serum contains viral particles and can be used.",
+        "b": "Plasma contains viral particles and can be used.",
+        "c": "Supernatant from viral cultures contains released viral particles and can be used.",
+        "d": "All of the above."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which molecule degrades RNA?",
+      "answers": {
+        "a": "DNase",
+        "b": "Ligase",
+        "c": "RNase",
+        "d": "Polymerase"
+      },
+      "explanations": {
+        "a": "DNase specifically degrades DNA.",
+        "b": "Ligase joins DNA fragments together.",
+        "c": "RNase.",
+        "d": "Polymerase synthesizes nucleic acid chains."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which downstream application requires extracted viral RNA?",
+      "answers": {
+        "a": "Western blot",
+        "b": "RT-PCR",
+        "c": "ELISA",
+        "d": "SDS-PAGE"
+      },
+      "explanations": {
+        "a": "Western blot is used for protein detection.",
+        "b": "RT-PCR.",
+        "c": "ELISA detects antigen or antibody proteins.",
+        "d": "SDS-PAGE is used to separate proteins by molecular weight."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which precaution is most important during RNA extraction?",
+      "answers": {
+        "a": "Working at high temperature",
+        "b": "Avoiding RNase contamination",
+        "c": "Using colored tubes",
+        "d": "Vortexing continuously"
+      },
+      "explanations": {
+        "a": "RNA is highly sensitive to heat and degrades easily at high temperatures.",
+        "b": "Avoiding RNase contamination.",
+        "c": "Tube color does not affect RNA stability.",
+        "d": "Vortexing excessively can shear genomic DNA but doesn't prevent RNA degradation specifically."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why should RNA samples be stored at −80 °C?",
+      "answers": {
+        "a": "To increase concentration",
+        "b": "To prevent RNase activity",
+        "c": "To improve purity",
+        "d": "To enhance binding"
+      },
+      "explanations": {
+        "a": "Freezing does not alter the concentration of the solute.",
+        "b": "To prevent RNase activity.",
+        "c": "Storage temperature does not affect sample purity.",
+        "d": "Binding steps are performed during extraction, not storage."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the main difference between RNA and DNA?",
+      "answers": {
+        "a": "RNA contains thymine",
+        "b": "DNA contains uracil",
+        "c": "RNA contains uracil instead of thymine",
+        "d": "Both are identical"
+      },
+      "explanations": {
+        "a": "RNA contains uracil instead of thymine.",
+        "b": "DNA contains thymine, not uracil.",
+        "c": "RNA contains uracil instead of thymine.",
+        "d": "They differ in their sugars (ribose vs deoxyribose) and nitrogenous bases."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which enzyme is used to convert RNA into complementary DNA (cDNA)?",
+      "answers": {
+        "a": "DNA polymerase",
+        "b": "Reverse transcriptase",
+        "c": "RNase",
+        "d": "Ligase"
+      },
+      "explanations": {
+        "a": "DNA polymerase replicates DNA templates.",
+        "b": "Reverse transcriptase.",
+        "c": "RNase degrades RNA rather than converting it.",
+        "d": "Ligase joins nucleic acid backbones."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which condition can lead to degradation of RNA during handling?",
+      "answers": {
+        "a": "Use of RNase-free tips",
+        "b": "Wearing gloves",
+        "c": "Exposure to RNase contamination",
+        "d": "Keeping samples on ice"
+      },
+      "explanations": {
+        "a": "RNase-free tips prevent degradation.",
+        "b": "Wearing gloves protects the sample from skin RNases.",
+        "c": "Exposure to RNase contamination.",
+        "d": "Keeping samples on ice slows down enzymatic degradation."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
